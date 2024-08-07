@@ -1,6 +1,6 @@
 <p>Motorcycle Maintenance Course Outline</p>
 <ol>
-Basic Maintenance<basic_maint.md>
+Basic Maintenance(https://pip-01.github.io/motorcycle_maintenance/basic_maint.md)
 1.1 Checking and Changing the Oil<Basic Maintenance Checking and Changing the Oil.md> 
 1.2 Checking and Replacing the Air Filter<Basic Maintenance Checking and Replacing the Air Filter.md>
 1.3 Inspecting and Replacing the Spark Plugs
